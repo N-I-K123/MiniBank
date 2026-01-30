@@ -54,13 +54,13 @@ A robust REST API for a banking system, featuring account management, fund trans
 Once the application is running, you can access the full, interactive API documentation here:
 👉 **[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)**
 
-![Swagger Screenshot](assets/swagger.png)
+![Swagger Screenshot](images/swagger.png)
 
 ## 📚 Database Schema (Class Diagram)
 
 Below is the Entity Relationship Diagram showing the database structure:
 
-![ClassDiagram Screenshot](assets/ClassDiagram.png)
+![ClassDiagram Screenshot](images/ClassDiagram.png)
 
 ## ✅ Testing
 
