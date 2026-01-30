@@ -36,3 +36,5 @@ help.md
 
 .DS_Store
 **/.DS_Store
+
+.vscode/
